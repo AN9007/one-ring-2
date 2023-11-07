@@ -1,0 +1,19 @@
+.h2-popular-regions-elements{
+font-weight: 500;
+font-size: 15pt;
+text-transform: none;
+padding: 20px 0 0;
+font-family: 'Raleway',sans-serif;
+color: #202833;
+margin: 0;
+}
+
+.h1-footer{
+    color: #4d4f52;
+    margin-bottom: 25px;
+    font-weight: 500;
+    font-size: 15pt;
+    text-transform: none;
+    font-family: 'Raleway',sans-serif;
+    line-height: 1.1;
+}
